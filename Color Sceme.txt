@@ -1,0 +1,4 @@
+primary- #1e266d
+secondary- #FF825C
+text- #696969
+overlay- #fadcd3

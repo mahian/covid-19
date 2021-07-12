@@ -1,0 +1,33 @@
+.personal {
+  grid-template-columns: 1fr;
+}
+.address {
+  grid-template-columns: 1fr;
+}
+.section-3 {
+  grid-template-columns: 1fr;
+  justify-items: center;
+}
+.section-4 {
+  grid-template-columns: 1fr;
+  grid-gap: 40px;
+}
+.section-4 .left {
+  align-items: center;
+  text-align: center;
+  padding-right: 0px;
+}
+.faq_area {
+  grid-template-columns: 1fr;
+}
+.news .top_content {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+.section-7 .right {
+  display: none;
+}
+.fixed_bar {
+  left: 28%;
+}
