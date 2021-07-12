@@ -72,7 +72,7 @@
   color: white;
 }
 header {
-  background: url(/img/download.webp);
+  background: url(download.webp);
   height: 65rem;
   background-position: center;
 }
